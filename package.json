@@ -1,0 +1,9 @@
+{
+  "name": "daily-affirmations",
+  "version": "0.0.0",
+  "description": "DailyAffirmations",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

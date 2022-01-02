@@ -1,0 +1,3 @@
+C:\Users\ncann\Desktop\Codeademy\DailyAffirmations\obj\Debug\DailyAffirmations.njsprojAssemblyReference.cache
+C:\Users\ncann\Desktop\Codeademy\DailyAffirmations\obj\Debug\DailyAffirmations.njsproj.CoreCompileInputs.cache
+C:\Users\ncann\Desktop\Codeademy\DailyAffirmations\bin\Microsoft.NodejsTools.WebRole.dll
